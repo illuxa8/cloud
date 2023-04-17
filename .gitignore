@@ -1,0 +1,6 @@
+.terraform-dev
+.terraform
+provider.tf
+lambda-payloads/
+
+
